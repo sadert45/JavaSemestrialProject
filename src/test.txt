@@ -1,0 +1,18 @@
+<root xmlns:h="http://www.w3.org/TR/html4/">
+	<h:people>
+		<h:person id="1">
+			<h:name> Ivan Ivanov </h:name>
+			<h:address> USA </h:address>
+		</h:person>
+		<h:person id="2">
+			<h:name> Ivan Petrov </h:name>
+			<h:address> Bulgaria </h:address>
+		</h:person>
+		<h:person id="1_2">
+			<h:name> Fridrich Petrov </h:name>
+			<h:address> France </h:address>
+		</h:person>
+		<h:person id="3">
+		</h:person>
+	</h:people>
+</h:root>
